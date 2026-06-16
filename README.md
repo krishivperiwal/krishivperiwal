@@ -29,21 +29,21 @@ I'm a full stack developer and CS student at **IIIT Naya Raipur**, building prod
 
 ## 🚀 Featured Projects
 
-### 🔵 Job Application Tracker — [API](https://github.com/krishivperiwal/job-tracker-api) · [Client](https://github.com/krishivperiwal/job-tracker-client)
+### 🔵 Job Application Tracker — [Live Demo](https://job-tracker-client-ten.vercel.app) · [API](https://github.com/krishivperiwal/job-tracker-api) · [Client](https://github.com/krishivperiwal/job-tracker-client)
 Full stack MERN app for tracking job applications, interview stages, and analytics.
 - React frontend with protected routes, Context API, React Hook Form
 - JWT auth · Cloudinary resume upload · MongoDB aggregation pipelines
 - Interview stage tracking per application · Status filtering · Analytics dashboard
 - Rate limiting · Centralized error handling · Pagination and sorting
 
-### 🟢 Role-Based Issue Tracker — [API](https://github.com/krishivperiwal/role-based-issue-tracking-api) · [Client](https://github.com/krishivperiwal/role-tracker-client)
+### 🟢 Role-Based Issue Tracker — [Live Demo](https://role-tracker-client.vercel.app) · [API](https://github.com/krishivperiwal/role-based-issue-tracking-api) · [Client](https://github.com/krishivperiwal/role-tracker-client)
 Full stack MERN app for issue management with fine-grained role-based access control.
 - React frontend with role-aware UI — admin vs regular user permissions
 - RBAC (admin/user) · Permission-based issue updates · Comment system
 - Issue lifecycle (open → in-progress → closed) · Assignee management
 - Axios interceptor for automatic JWT attachment · Protected routes
 
-### 🟡 URL Shortener — [API](https://github.com/krishivperiwal/url-shortener-api) · [Client](https://github.com/krishivperiwal/url-shortener-client)
+### 🟡 URL Shortener — [Live Demo](https://url-shortener-client-jade.vercel.app) · [API](https://github.com/krishivperiwal/url-shortener-api) · [Client](https://github.com/krishivperiwal/url-shortener-client)
 Full stack MERN URL shortening service with click analytics and Chart.js visualization.
 - React frontend with dashboard, copy-to-clipboard, and per-URL analytics page
 - Unique short ID generation · Click tracking with timestamps · Input validation
